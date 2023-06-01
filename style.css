@@ -1,0 +1,31 @@
+
+form{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10%;
+    width: max-content;
+    background-color: rgb(0, 0, 0);
+}
+.numBtn, .calBtn{
+    font-size: 20px;
+    border-radius: 100%;
+    border: solid;
+    margin: 2px;
+    padding: 46px;
+    background-color: rgb(143, 117, 212);
+    color: black;
+}
+.mainInput{
+    background-color: rgb(90, 54, 190);
+    text-align: center;
+    font-size: 40px;
+    margin: 15px;
+    border-radius: 35px;
+    border: solid;
+    padding: 45px;
+    width: 60%;
+}
