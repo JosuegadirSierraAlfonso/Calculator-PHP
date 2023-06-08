@@ -96,13 +96,13 @@ $calculator->handleInput($_POST);
             <input type="submit" class="numBtn" name="num"value="3">
             <input type="submit" class="calBtn" name="op"value="*"><br>
 
-            <input type="submit" class="numBtn" name="c"value="C">
+            <input type="submit" id="del" class="numBtn" name="c"value="C">
             <input type="submit" class="numBtn" name="num"value="0">
             <input type="submit" class="numBtn" name="op"value="/">
             <input type="submit" class="numBtn" name="equal"value="="><br>
 
-            <input type="submit" class="numBtn" name="num"value=".">
-            <input type="submit" class="numBtn" name="num"value="-">
+            <input type="submit" id="sig" class="numBtn" name="num"value=".">
+            <input type="submit" id="sig" class="numBtn" name="num"value="-">
 
         </form>
     </div>

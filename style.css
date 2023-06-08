@@ -1,4 +1,10 @@
 
+#del{
+    background-color: brown !important;
+}
+#sig{
+    background-color:  rgb(90, 54, 190);
+}
 form{
     text-align: center;
     justify-content: center;
